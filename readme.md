@@ -25,3 +25,27 @@
 > - [2,3,5,8,7,9,4,15,6]
 > - [2,3,5,8,7,9,4,15,6]
 > - [2,3,4,8,7,9,5,15,6]
+
+## Proje 2
+> ### [16,21,11,8,12,22] -> Merge Sort
+
+> #### Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+>> - [16,21,11]  |  [8,12,22]
+>> - [16,21] -  [11]  | [8,12]  -  [22]
+>> - [11]  - [16,21] |  [8,12]  -  [22]
+>> - [11,16,21] |  [8,12,22]
+>> - [8,11,12,16,21,22]
+> #### Big-O gösterimini yazınız.
+>> Big-O logn(n)
+
+
+## Proje 3
+> ### [7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
+
+> Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
+>> [7, 5, 1, 8, 3, 6, 0, 9, 4, 2]
+                                  
+![image](https://user-images.githubusercontent.com/54523096/138573941-dc3ae0bb-2e51-4a43-99b8-6826c3d8ac98.png)
+
+
+
